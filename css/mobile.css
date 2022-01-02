@@ -1,0 +1,60 @@
+/* NAVBAR */
+
+#p-navbar .logo {
+  float: none;
+  text-align: center;
+}
+
+#p-navbar ul {
+  float: none;
+  text-align: center
+}
+
+#p-navbar ul li {
+float: none;
+}
+
+#p-navbar ul li a {
+  padding-top: none;
+  border-bottom: 1px dotted #d9d9d9;
+}
+
+#p-navbar ul li .wala {
+  border-bottom:none;
+}
+
+#home-info .info-img {
+  display: none;
+}
+
+#home-info .info-content {
+  float: none;
+  width: 100%;
+}
+
+.box {
+  float: none;
+  width: 100%;
+}
+
+
+/* About/ about section  */
+
+
+#about-sec {
+  height: 350px;
+}
+
+#about-sec .right-sec {
+  display: none;
+}
+
+#about-sec .left-sec {
+  float: none;
+  text-align: center;
+  width: 100%;
+}
+
+#about-sec p {
+  padding: 1rem 4rem;
+}
